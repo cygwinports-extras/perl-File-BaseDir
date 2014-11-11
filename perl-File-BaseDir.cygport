@@ -1,0 +1,13 @@
+CPAN_AUTHOR=pardus
+inherit perl
+
+NAME="perl-File-BaseDir"
+VERSION=0.03
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl XDG Base Directory Specification module"
+DESCRIPTION="This module can be used to find directories and files as specified
+by the Freedesktop.org Base Directory Specification. This specification gives a
+mechanism to locate directories for configuration, application data and cache
+data. It is suggested that desktop applications follow this layout. However,
+the same layout can just as well be used for non-GUI applications."
