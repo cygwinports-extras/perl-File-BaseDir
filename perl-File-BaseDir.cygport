@@ -3,7 +3,7 @@ inherit perl
 
 NAME="perl-File-BaseDir"
 VERSION=0.03
-RELEASE=2
+RELEASE=3
 CATEGORY="Perl"
 SUMMARY="Perl XDG Base Directory Specification module"
 DESCRIPTION="This module can be used to find directories and files as specified
